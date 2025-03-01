@@ -98,7 +98,7 @@ The project follows a clean architecture approach with the following layers:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AliRizaAynaci/e-commerce.git
+   git clone https://github.com/AliRizaAynaci/E-Commerce-API-with-CQRS-and-DDD.git
    cd e-commerce
    ```
 
